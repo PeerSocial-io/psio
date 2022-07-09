@@ -1,0 +1,25 @@
+{
+  "name": "psio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "",
+    "build": "",
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeerSocial-io/psio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeerSocial-io/psio/issues"
+  },
+  "homepage": "https://github.com/PeerSocial-io/psio#readme",
+  "dependencies": {
+    "peersocial.io": "github:PeerSocial-io/PeerSocial.io"
+  }
+}
